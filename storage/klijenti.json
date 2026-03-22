@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "ime_prezime": "Ivan Bačić",
+        "adresa": "Ilica 10",
+        "mjesto": "Rijeka",
+        "email": "ibacic86@gmail.com",
+        "datum_rodenja": "1986-02-04",
+        "zaposlen": "Ne",
+        "zanimanja": [
+            "Programer"
+        ]
+    },
+    {
+        "id": 2,
+        "ime_prezime": "Franjo Tuđman",
+        "adresa": "Ilica 22",
+        "mjesto": "Zagreb",
+        "email": "franjo@gmail.com",
+        "datum_rodenja": "2026-03-16",
+        "zaposlen": "Da",
+        "zanimanja": [
+            "Liječnik"
+        ]
+    },
+    {
+        "id": 3,
+        "ime_prezime": "Halid Bešlić",
+        "adresa": "Romanija 33",
+        "mjesto": "Pula",
+        "email": "halid@gmail.com",
+        "datum_rodenja": "2026-03-03",
+        "zaposlen": "Da",
+        "zanimanja": [
+            "Vozač"
+        ]
+    },
+    {
+        "id": 4,
+        "ime_prezime": "Ivan Horvat",
+        "adresa": "Ilica 3333",
+        "mjesto": "Slavonski Brod",
+        "email": "ivan@gmail.com",
+        "datum_rodenja": "2026-03-20",
+        "zaposlen": "Da",
+        "zanimanja": [
+            "Programer",
+            "Dizajner",
+            "Računovođa",
+            "Liječnik",
+            "Pravnik",
+            "Učitelj",
+            "Inženjer",
+            "Ekonomist",
+            "Arhitekt",
+            "Vozač"
+        ]
+    }
+]
