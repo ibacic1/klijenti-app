@@ -1,0 +1,3 @@
+# Zabrani direktni pristup storage folderu iz browsera
+# Deny direct access to storage folder from browser
+Options -Indexes
